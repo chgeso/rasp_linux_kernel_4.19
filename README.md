@@ -1,1 +1,0 @@
-# rasp_linux_kernel_4.19
